@@ -1,0 +1,7 @@
+app/components/LoginModelBean.class
+app/components/HRDB.class
+app/components/EmpEntry.class
+app/components/DeptEntry.class
+app/components/HRControllerServlet.class
+app/components/DeptListTag.class
+app/components/EmpListTag.class
